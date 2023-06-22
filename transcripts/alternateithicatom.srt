@@ -1,0 +1,1132 @@
+1
+00:00:00,000 --> 00:00:02,700
+There are some scientists who say that the universe
+
+2
+00:00:02,700 --> 00:00:06,600
+that we inhabit is not the only universe there is.
+
+3
+00:00:06,600 --> 00:00:08,640
+There are alternate universes.
+
+4
+00:00:08,640 --> 00:00:10,640
+They say that these universes arise
+
+5
+00:00:10,640 --> 00:00:13,720
+from the subatomic realm of quantum physics.
+
+6
+00:00:13,720 --> 00:00:15,240
+Here's how they say it works.
+
+7
+00:00:15,240 --> 00:00:17,680
+Every time a quantum event happens,
+
+8
+00:00:17,680 --> 00:00:21,560
+it produces all of its possible results.
+
+9
+00:00:21,560 --> 00:00:23,480
+This is like saying if you flip a coin,
+
+10
+00:00:23,480 --> 00:00:27,160
+it comes up heads, but it also comes up tails.
+
+11
+00:00:27,160 --> 00:00:29,840
+Since those two results are mutually exclusive,
+
+12
+00:00:29,840 --> 00:00:32,600
+the flipping of the coin splits the universe
+
+13
+00:00:32,600 --> 00:00:36,120
+into two alternate universes, the heads universe
+
+14
+00:00:36,120 --> 00:00:37,800
+and the tails universe.
+
+15
+00:00:37,800 --> 00:00:40,760
+And since quantum events are happening all the time,
+
+16
+00:00:40,760 --> 00:00:42,400
+it means that alternate universes
+
+17
+00:00:42,400 --> 00:00:43,840
+are bubbling up continually.
+
+18
+00:00:43,840 --> 00:00:46,280
+They're always being created, splitting off from ours.
+
+19
+00:00:46,280 --> 00:00:48,800
+And these alternate universes are real.
+
+20
+00:00:48,800 --> 00:00:50,880
+They're not just figments of the imagination.
+
+21
+00:00:50,880 --> 00:00:53,840
+They're complete, whole, real things.
+
+22
+00:00:53,840 --> 00:00:57,080
+I know this is true because I experienced
+
+23
+00:00:57,080 --> 00:00:58,460
+an alternate universe.
+
+24
+00:01:00,360 --> 00:01:03,400
+I was driving in my Volkswagen van
+
+25
+00:01:03,400 --> 00:01:06,080
+up to a Tai Chi camp in upstate New York
+
+26
+00:01:06,080 --> 00:01:07,320
+a couple of summers ago.
+
+27
+00:01:09,440 --> 00:01:12,560
+I bought the Volkswagen van when I'd quit my job
+
+28
+00:01:12,560 --> 00:01:14,100
+a few years previously.
+
+29
+00:01:14,100 --> 00:01:16,000
+I bought the van because I quit the job
+
+30
+00:01:16,000 --> 00:01:18,920
+as a custom database application engineer.
+
+31
+00:01:19,960 --> 00:01:23,000
+This was not a job that I really had intended to become.
+
+32
+00:01:23,000 --> 00:01:24,580
+When I was a kid, that's not what I thought
+
+33
+00:01:24,580 --> 00:01:25,820
+I was going to be.
+
+34
+00:01:26,720 --> 00:01:28,520
+It's just sort of the job I happened into
+
+35
+00:01:28,520 --> 00:01:31,060
+and I always thought of it as the work I was doing
+
+36
+00:01:31,060 --> 00:01:34,180
+before I was going to find my real work.
+
+37
+00:01:34,180 --> 00:01:36,360
+But when I got close to about 40,
+
+38
+00:01:36,360 --> 00:01:39,800
+I suddenly thought, oh my God, this could be it.
+
+39
+00:01:39,800 --> 00:01:41,160
+This could be what I end up doing.
+
+40
+00:01:41,160 --> 00:01:42,960
+This could be on my tombstone.
+
+41
+00:01:42,960 --> 00:01:47,640
+Tom Weiser, custom database application engineer,
+
+42
+00:01:47,640 --> 00:01:49,560
+wrote well-optimized queries.
+
+43
+00:01:51,280 --> 00:01:53,580
+Many customers satisfied.
+
+44
+00:01:53,580 --> 00:01:55,120
+And I thought, no, that can't be it.
+
+45
+00:01:55,120 --> 00:01:56,320
+That can't be all there is.
+
+46
+00:01:56,320 --> 00:01:59,160
+And I quit the job without really knowing
+
+47
+00:01:59,160 --> 00:02:00,440
+what I was going to do next.
+
+48
+00:02:00,440 --> 00:02:04,320
+And I knew that what I should do was to take my skill set
+
+49
+00:02:04,320 --> 00:02:07,480
+and to make a lateral move to a career path
+
+50
+00:02:07,480 --> 00:02:09,080
+that was more appropriate.
+
+51
+00:02:09,080 --> 00:02:11,340
+But I really didn't want to do that.
+
+52
+00:02:11,340 --> 00:02:12,520
+I didn't want to be so logical.
+
+53
+00:02:12,520 --> 00:02:15,680
+I actually wanted something more magic.
+
+54
+00:02:15,680 --> 00:02:18,360
+I wanted to be like the guy in the fairy tale
+
+55
+00:02:18,360 --> 00:02:22,120
+that trades the cow for the magic beans.
+
+56
+00:02:22,120 --> 00:02:24,880
+And I know that that's a bad deal.
+
+57
+00:02:24,880 --> 00:02:29,000
+I know that the cow's a better investment.
+
+58
+00:02:29,000 --> 00:02:30,800
+The cow's going to pay off in the long term.
+
+59
+00:02:30,800 --> 00:02:34,520
+But if the magic beans work out,
+
+60
+00:02:34,520 --> 00:02:36,280
+you're in a whole new story.
+
+61
+00:02:38,800 --> 00:02:40,600
+So I quit the job and I bought
+
+62
+00:02:40,600 --> 00:02:43,560
+a Volkswagen pop-top camper van.
+
+63
+00:02:43,560 --> 00:02:46,240
+And I drove around country and what I thought is, okay,
+
+64
+00:02:46,240 --> 00:02:48,140
+I'm not going to make a lateral move.
+
+65
+00:02:48,140 --> 00:02:50,160
+I am going to drive around the country
+
+66
+00:02:50,160 --> 00:02:52,840
+and I'm going to open myself up to whatever may come.
+
+67
+00:02:52,840 --> 00:02:56,240
+And then what I'm going to do is going to arise organically.
+
+68
+00:02:56,240 --> 00:02:58,080
+I'm going to find my next path there
+
+69
+00:02:58,080 --> 00:02:59,520
+by the side of the road in Arizona.
+
+70
+00:02:59,520 --> 00:03:01,920
+I'm going to pick it up and bring it back to New York.
+
+71
+00:03:01,920 --> 00:03:06,360
+So I drove around the country, 25,000 miles, eight months.
+
+72
+00:03:06,360 --> 00:03:09,640
+And when I got back to New York, I had no clue.
+
+73
+00:03:11,080 --> 00:03:14,440
+I really didn't know and it left me very vulnerable
+
+74
+00:03:14,440 --> 00:03:16,800
+to the New York question.
+
+75
+00:03:16,800 --> 00:03:18,640
+The first question anybody asked, which is,
+
+76
+00:03:18,640 --> 00:03:20,180
+so, what do you do?
+
+77
+00:03:20,180 --> 00:03:23,180
+I didn't know.
+
+78
+00:03:23,180 --> 00:03:26,740
+I didn't have a good answer and it made me feel really embarrassed
+
+79
+00:03:26,740 --> 00:03:28,420
+because everybody knows what they do.
+
+80
+00:03:28,420 --> 00:03:31,060
+Everybody does and I thought I should too.
+
+81
+00:03:31,060 --> 00:03:34,100
+So when I was driving the Volkswagen van up to Tai Chi Camp
+
+82
+00:03:34,100 --> 00:03:36,660
+the other summer, I felt very relieved
+
+83
+00:03:36,660 --> 00:03:40,060
+because in camp, I know what I do.
+
+84
+00:03:40,060 --> 00:03:41,260
+I do the camp thing.
+
+85
+00:03:41,260 --> 00:03:42,260
+I do what's at camp.
+
+86
+00:03:42,260 --> 00:03:43,500
+And I don't know if you know this,
+
+87
+00:03:43,500 --> 00:03:45,900
+but there are a lot of camps for adults that are out there.
+
+88
+00:03:45,900 --> 00:03:48,580
+I found them when I was driving around the country.
+
+89
+00:03:48,620 --> 00:03:51,060
+There are Tai Chi camps and yoga camps
+
+90
+00:03:51,060 --> 00:03:52,740
+and bird watching camps.
+
+91
+00:03:52,740 --> 00:03:54,940
+There's even a camp where you can dress up in armor
+
+92
+00:03:54,940 --> 00:03:56,020
+and joust.
+
+93
+00:03:58,020 --> 00:04:00,340
+All the things that give us joy
+
+94
+00:04:00,340 --> 00:04:02,940
+and that we tend to demean with the name hobby,
+
+95
+00:04:02,940 --> 00:04:06,540
+those are the things that are celebrated in camp.
+
+96
+00:04:06,540 --> 00:04:09,060
+And when people go to camp, they are so lit up.
+
+97
+00:04:09,060 --> 00:04:11,020
+They are finally getting to do that thing,
+
+98
+00:04:11,020 --> 00:04:11,860
+the thing they love.
+
+99
+00:04:11,860 --> 00:04:14,180
+It's like, yes, I finally get to joust.
+
+100
+00:04:14,180 --> 00:04:15,940
+I don't have time for that anymore.
+
+101
+00:04:15,940 --> 00:04:16,780
+Really.
+
+102
+00:04:19,220 --> 00:04:22,460
+So I was going up to camp and feeling pretty good about it.
+
+103
+00:04:22,460 --> 00:04:25,460
+And I decided on the way, I would stop into Ithaca.
+
+104
+00:04:25,460 --> 00:04:27,420
+I'd heard that it was kind of a neat town.
+
+105
+00:04:27,420 --> 00:04:30,060
+So I pulled off the highway into Ithaca
+
+106
+00:04:30,060 --> 00:04:33,460
+and it's on the southern shore of Lake Cayuga.
+
+107
+00:04:33,460 --> 00:04:34,980
+There's flatland and these hills
+
+108
+00:04:34,980 --> 00:04:38,180
+and it has a very particular microclimate there
+
+109
+00:04:38,180 --> 00:04:39,980
+which allows hippies to survive.
+
+110
+00:04:41,700 --> 00:04:44,140
+All the stores have names like it takes a village
+
+111
+00:04:44,140 --> 00:04:45,540
+or hemp unlimited.
+
+112
+00:04:46,540 --> 00:04:49,860
+And the children are all completely multi-ethnic
+
+113
+00:04:49,860 --> 00:04:51,900
+and only wear cloth, organic diapers.
+
+114
+00:04:51,900 --> 00:04:53,980
+It was really something.
+
+115
+00:04:53,980 --> 00:04:56,180
+I drove around like sort of like Disney hippie land,
+
+116
+00:04:56,180 --> 00:04:57,020
+just watching it.
+
+117
+00:04:57,020 --> 00:04:59,420
+And then I drove up the hill up toward Cornell
+
+118
+00:04:59,420 --> 00:05:01,820
+which has these stately buildings on the hilltop.
+
+119
+00:05:01,820 --> 00:05:04,820
+And as I drove onto the campus,
+
+120
+00:05:04,820 --> 00:05:06,780
+I had this stabbing sensation
+
+121
+00:05:06,780 --> 00:05:08,860
+and I suddenly was pierced with a vision
+
+122
+00:05:08,860 --> 00:05:12,580
+of an alternate universe, my alternate life.
+
+123
+00:05:12,580 --> 00:05:15,260
+I thought, oh my God, I was supposed to go to Cornell.
+
+124
+00:05:16,460 --> 00:05:18,860
+If I had gone to Cornell,
+
+125
+00:05:18,860 --> 00:05:21,180
+I would have studied animal behavior.
+
+126
+00:05:21,180 --> 00:05:24,500
+And right now I'd be a professor of evolutionary biology.
+
+127
+00:05:26,380 --> 00:05:28,060
+I'm a professor of evolutionary biology
+
+128
+00:05:28,060 --> 00:05:30,180
+and I've got a wife.
+
+129
+00:05:30,180 --> 00:05:31,940
+She's got dark hair.
+
+130
+00:05:31,940 --> 00:05:33,660
+She's really smart.
+
+131
+00:05:33,660 --> 00:05:37,580
+And I'm a professor with a wife and we've got two kids.
+
+132
+00:05:37,580 --> 00:05:38,820
+They like to sing.
+
+133
+00:05:39,940 --> 00:05:42,900
+It was this completely realized vision
+
+134
+00:05:42,900 --> 00:05:44,900
+of this alternate life and it looked so good.
+
+135
+00:05:44,940 --> 00:05:47,740
+Alternate Ithaca, Tom, he'd made these great choices.
+
+136
+00:05:47,740 --> 00:05:49,140
+It was really working out.
+
+137
+00:05:50,700 --> 00:05:54,300
+And I drove around in a kind of a wash of nostalgia
+
+138
+00:05:54,300 --> 00:05:56,500
+for this life that I hadn't had.
+
+139
+00:05:56,500 --> 00:05:59,820
+It's like, wow, there's the human ecology center.
+
+140
+00:05:59,820 --> 00:06:01,540
+I did all my grad work there.
+
+141
+00:06:02,660 --> 00:06:04,940
+And there was this funky cottage that I used to live in
+
+142
+00:06:04,940 --> 00:06:07,620
+when I had six roommates and we had a chore wheel
+
+143
+00:06:07,620 --> 00:06:09,340
+and ate brown rice.
+
+144
+00:06:10,980 --> 00:06:13,700
+And there was these gorges that we used to do drum circles
+
+145
+00:06:13,980 --> 00:06:15,300
+and songs to the goddess.
+
+146
+00:06:15,300 --> 00:06:19,260
+And there was this woman that looked just like my wife
+
+147
+00:06:19,260 --> 00:06:21,460
+would have looked when I would have met her.
+
+148
+00:06:22,780 --> 00:06:23,980
+I was overwhelmed by it.
+
+149
+00:06:23,980 --> 00:06:26,140
+I couldn't stand to stay there any longer.
+
+150
+00:06:26,140 --> 00:06:27,740
+I drove off the campus.
+
+151
+00:06:27,740 --> 00:06:30,900
+I fled Ithaca and flew to Tai Chi Camp.
+
+152
+00:06:31,940 --> 00:06:34,100
+But alternate Ithaca, Tom, came with me.
+
+153
+00:06:35,500 --> 00:06:38,860
+Now at camps, I tend to really have a good time.
+
+154
+00:06:38,860 --> 00:06:42,020
+I laugh a lot, I joke a lot, especially in Tai Chi Camp
+
+155
+00:06:42,020 --> 00:06:45,020
+but the residents are kind of serious and slow moving.
+
+156
+00:06:46,580 --> 00:06:48,740
+I can't help but kind of tease them.
+
+157
+00:06:48,740 --> 00:06:51,540
+And in this particular camp,
+
+158
+00:06:51,540 --> 00:06:54,060
+the teacher said that we were going to be meditating
+
+159
+00:06:54,060 --> 00:06:56,260
+every morning from seven to eight.
+
+160
+00:06:56,260 --> 00:06:59,940
+And she was looking for a volunteer, someone, a musician
+
+161
+00:06:59,940 --> 00:07:03,380
+that would wander the hallways, playing an instrument
+
+162
+00:07:03,380 --> 00:07:05,920
+or singing to wake up the residents.
+
+163
+00:07:06,900 --> 00:07:08,980
+I'm not a morning person.
+
+164
+00:07:08,980 --> 00:07:11,300
+And so I thought, oh, so I have a choice here.
+
+165
+00:07:11,300 --> 00:07:14,500
+Either it's gonna be 6.30, I'll be lying in my bed,
+
+166
+00:07:14,500 --> 00:07:18,980
+really grumpy, while some asshole sings outside my door.
+
+167
+00:07:18,980 --> 00:07:21,820
+Or I could be the singing asshole.
+
+168
+00:07:24,340 --> 00:07:25,180
+For the rest of that week,
+
+169
+00:07:25,180 --> 00:07:27,180
+I was the singing asshole of the camp.
+
+170
+00:07:27,180 --> 00:07:30,580
+Every morning I would roam the hall singing lustily,
+
+171
+00:07:30,580 --> 00:07:32,980
+waking up all my fellow Tai Chi players.
+
+172
+00:07:32,980 --> 00:07:37,340
+And the people there saw me laughing and singing
+
+173
+00:07:37,340 --> 00:07:39,420
+and they said, Tom, it's really great to have you here.
+
+174
+00:07:39,420 --> 00:07:40,260
+You're so happy.
+
+175
+00:07:40,260 --> 00:07:41,300
+You're such a happy guy.
+
+176
+00:07:41,300 --> 00:07:43,420
+And I thought, yeah, you think I'm happy,
+
+177
+00:07:43,420 --> 00:07:45,980
+but you haven't seen alternate Ithaca Tom.
+
+178
+00:07:45,980 --> 00:07:46,860
+I've seen him.
+
+179
+00:07:46,860 --> 00:07:48,340
+He's happy.
+
+180
+00:07:48,340 --> 00:07:50,260
+And the fact that he was so much happier than me
+
+181
+00:07:50,260 --> 00:07:51,940
+was making me miserable.
+
+182
+00:07:53,140 --> 00:07:55,540
+And I kept looking at everybody else's life
+
+183
+00:07:55,540 --> 00:07:57,260
+and comparing myself to them.
+
+184
+00:07:57,260 --> 00:07:59,140
+And I remember having lunch with a woman
+
+185
+00:07:59,140 --> 00:08:01,660
+who were in her 60s and she was a calligrapher.
+
+186
+00:08:01,660 --> 00:08:03,580
+And she was about to have her first grandchild.
+
+187
+00:08:03,580 --> 00:08:04,540
+She was really excited.
+
+188
+00:08:04,540 --> 00:08:09,300
+And I thought, maybe calligraphy, that could be it.
+
+189
+00:08:09,300 --> 00:08:10,860
+And then there was this other guy
+
+190
+00:08:10,860 --> 00:08:12,940
+and he had studied Tai Chi when he was in his 20s
+
+191
+00:08:12,940 --> 00:08:14,900
+and now he was a sales rep at Dell.
+
+192
+00:08:14,900 --> 00:08:18,180
+And I thought, damn it, if I had studied Tai Chi in my 20s,
+
+193
+00:08:18,180 --> 00:08:21,620
+maybe I could be a sales rep at Dell now.
+
+194
+00:08:21,620 --> 00:08:23,220
+I've never wanted to be a sales rep,
+
+195
+00:08:23,220 --> 00:08:25,500
+but I was just getting carried away.
+
+196
+00:08:25,500 --> 00:08:27,620
+That feeling that I was in the wrong life,
+
+197
+00:08:27,620 --> 00:08:29,900
+I was in the wrong place, I couldn't shake it.
+
+198
+00:08:29,900 --> 00:08:33,060
+I really tried to absorb the lesson of Tai Chi,
+
+199
+00:08:33,060 --> 00:08:35,700
+which is to be present, just relax,
+
+200
+00:08:35,700 --> 00:08:38,660
+accept what's coming to you and be present here.
+
+201
+00:08:38,660 --> 00:08:40,300
+But I thought, yeah, yeah, that would be easy.
+
+202
+00:08:40,300 --> 00:08:42,660
+It's so much easier to accept where you are
+
+203
+00:08:42,660 --> 00:08:44,620
+if only you're in the right place.
+
+204
+00:08:47,820 --> 00:08:50,220
+Eventually camp was over and I left.
+
+205
+00:08:50,220 --> 00:08:51,460
+I drove back to New York.
+
+206
+00:08:51,460 --> 00:08:54,140
+And as I was driving over the George Washington Bridge,
+
+207
+00:08:54,140 --> 00:08:56,140
+I could still hear alternate Ithaca Tom.
+
+208
+00:08:56,140 --> 00:08:58,980
+He was hanging around me, haunting me like a ghost.
+
+209
+00:08:58,980 --> 00:09:02,500
+And I thought, oh God, I need professional help.
+
+210
+00:09:02,500 --> 00:09:04,900
+So I made an appointment with the family psychic.
+
+211
+00:09:05,500 --> 00:09:09,100
+This is the guy that's done readings
+
+212
+00:09:09,100 --> 00:09:10,940
+for all of my siblings and my cousins.
+
+213
+00:09:10,940 --> 00:09:13,500
+And I went to see him and he's an astrologer.
+
+214
+00:09:13,500 --> 00:09:14,820
+So he did out my chart.
+
+215
+00:09:14,820 --> 00:09:17,620
+And this time he was very interested
+
+216
+00:09:17,620 --> 00:09:19,660
+in this polarity that he saw.
+
+217
+00:09:19,660 --> 00:09:22,340
+He said, you have Saturn in the mid heaven.
+
+218
+00:09:22,340 --> 00:09:24,340
+And this marks you as a person
+
+219
+00:09:24,340 --> 00:09:26,220
+who could be very organizational.
+
+220
+00:09:26,220 --> 00:09:29,140
+The organizational man, the hierarchical one,
+
+221
+00:09:29,140 --> 00:09:31,740
+the corporate guy, the dad, the provider,
+
+222
+00:09:31,740 --> 00:09:34,700
+not particularly sexy, but a straight up guy.
+
+223
+00:09:34,740 --> 00:09:37,540
+On the other hand, there's Pisces and the sun.
+
+224
+00:09:37,540 --> 00:09:39,460
+And they're squared with each other.
+
+225
+00:09:39,460 --> 00:09:40,300
+You can't resolve them.
+
+226
+00:09:40,300 --> 00:09:42,340
+Piscean, the dreamer, the mystic,
+
+227
+00:09:42,340 --> 00:09:44,940
+the guy that's the artist never quite pinned down,
+
+228
+00:09:44,940 --> 00:09:46,340
+never quite in a relationship.
+
+229
+00:09:46,340 --> 00:09:48,300
+And you have to balance these two.
+
+230
+00:09:48,300 --> 00:09:49,940
+You have to choose one or the other.
+
+231
+00:09:49,940 --> 00:09:52,660
+And normally I love to hear this kind of thing.
+
+232
+00:09:52,660 --> 00:09:54,620
+This is the great thing about going to a psychic
+
+233
+00:09:54,620 --> 00:09:57,380
+is that for an hour they just talk about me.
+
+234
+00:09:57,380 --> 00:09:59,660
+It's so interesting.
+
+235
+00:09:59,660 --> 00:10:03,060
+But this time I was so caught up with alternate Ithaca time,
+
+236
+00:10:03,060 --> 00:10:04,900
+I couldn't really appreciate it all.
+
+237
+00:10:04,900 --> 00:10:07,060
+So I just blurted out what had happened to me.
+
+238
+00:10:07,060 --> 00:10:08,820
+And I asked him, what does this mean?
+
+239
+00:10:08,820 --> 00:10:12,260
+And the psychic said, wow, this represents
+
+240
+00:10:12,260 --> 00:10:15,180
+a fundamental choice that you've made in your life.
+
+241
+00:10:15,180 --> 00:10:17,780
+You could have been the hierarchical guy,
+
+242
+00:10:17,780 --> 00:10:20,180
+but you chose to be the Piscean.
+
+243
+00:10:20,180 --> 00:10:23,580
+If you had decided to be an academic,
+
+244
+00:10:23,580 --> 00:10:25,620
+you would have been very successful.
+
+245
+00:10:25,620 --> 00:10:27,460
+There's no doubt that the youth
+
+246
+00:10:28,460 --> 00:10:30,700
+There's no doubt that the university structure
+
+247
+00:10:30,700 --> 00:10:32,180
+would have raised you up.
+
+248
+00:10:32,180 --> 00:10:34,020
+You probably would be married, have kids.
+
+249
+00:10:34,020 --> 00:10:35,940
+And I thought, oh shit, alternate Ithaca time
+
+250
+00:10:35,940 --> 00:10:37,740
+made the right choices.
+
+251
+00:10:37,740 --> 00:10:41,020
+But the psychic said, if you had become an academic,
+
+252
+00:10:41,020 --> 00:10:42,940
+your wife would have had an affair with your brother
+
+253
+00:10:42,940 --> 00:10:44,020
+or your best friend.
+
+254
+00:10:45,860 --> 00:10:47,860
+Alternate Ithaca time is crushed.
+
+255
+00:10:48,820 --> 00:10:50,900
+He's just found out that his wife is having an affair
+
+256
+00:10:50,900 --> 00:10:51,940
+with his research partner.
+
+257
+00:10:51,940 --> 00:10:54,340
+This is the guy he's been working with for 15 years.
+
+258
+00:10:54,340 --> 00:10:55,420
+It's a long-term affair.
+
+259
+00:10:55,420 --> 00:10:56,780
+They're moving in together.
+
+260
+00:10:56,780 --> 00:10:58,780
+She's taking the kids.
+
+261
+00:10:58,780 --> 00:11:00,140
+He's completely crushed.
+
+262
+00:11:00,140 --> 00:11:01,620
+Poor alternate Ithaca time.
+
+263
+00:11:01,620 --> 00:11:02,980
+He starts drinking.
+
+264
+00:11:02,980 --> 00:11:05,020
+He can't keep his lecture notes together.
+
+265
+00:11:05,020 --> 00:11:06,500
+He can't keep his research together.
+
+266
+00:11:06,500 --> 00:11:08,700
+He's coming up for tenure and it's all falling apart.
+
+267
+00:11:08,700 --> 00:11:10,980
+And in the midst of his turmoil,
+
+268
+00:11:10,980 --> 00:11:14,740
+he's suddenly pierced by this vision of himself
+
+269
+00:11:14,740 --> 00:11:16,500
+driving a Volkswagen van.
+
+270
+00:11:18,180 --> 00:11:20,220
+He's off to camp.
+
+271
+00:11:20,220 --> 00:11:22,140
+It's a Tai Chi camp.
+
+272
+00:11:22,140 --> 00:11:23,740
+He's not married.
+
+273
+00:11:23,740 --> 00:11:24,900
+He doesn't have kids.
+
+274
+00:11:24,900 --> 00:11:27,500
+He doesn't even have a job.
+
+275
+00:11:27,500 --> 00:11:29,260
+He's completely free.
+
+276
+00:11:29,260 --> 00:11:30,780
+It looks so good.
+
+277
+00:11:30,780 --> 00:11:33,380
+This image, it pierces him to his heart.
+
+278
+00:11:33,380 --> 00:11:35,380
+Begins to hang around him and haunt him
+
+279
+00:11:35,380 --> 00:11:37,100
+like a hungry ghost.
+
+280
+00:11:38,300 --> 00:11:39,140
+Thank you.
+
+281
+00:11:39,140 --> 00:11:39,980
+Thank you.
+
+282
+00:11:39,980 --> 00:11:40,820
+Thank you.
+
+283
+00:11:40,820 --> 00:11:41,660
+Thank you.
+
