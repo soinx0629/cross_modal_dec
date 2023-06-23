@@ -100,8 +100,6 @@ class VideoFmriDataset(Dataset):
                     target = all_stim['stimuli'][intvideo_begin:video_end]
                     all_stim.close()
                     return {'stimulus': target}
-                    
-                
                 else:
                     return {'stimulus': self.all_stim[0][intvideo_begin:video_end]}
 
@@ -302,7 +300,7 @@ def create_story_fmri_dataset(fmri_dir='/cw/liir_data/NoCsBack/cross_modal_brain
 
 
 
-if __name__ == '__main__':
+# if __name__ == '__main__':
     # tsv_file = '/cw/liir_code/NoCsBack/jingyuan/cross_modal/transcripts/adollshouse.tsv'
     # length_json = '/cw/liir_code/NoCsBack/jingyuan/cross_modal/respdict.json'
     # stim_tr_dict = load_story_tr_time(tsv_file, length_json)
@@ -312,12 +310,6 @@ if __name__ == '__main__':
     # tr_video_fmri, te_video_fmri = load_video_fmri(load_first_n_sub=2)
     # print(tr_video_fmri['S1'].shape, tr_video_fmri['S2'].shape)
     # print(te_video_fmri['S1'].shape, te_video_fmri['S2'].shape)
-    # tr_story_ds, te_story_ds = create_story_fmri_dataset(load_first_n_sub=1, load_first_n_story=2)
-    # print(len(tr_story_ds), len(tr_story_ds.all_fmri))
-    # print(len(te_story_ds), len(te_story_ds.all_fmri))
-    a,b = create_video_fmri_dataset(load_first_n_sub=1, load_only_video_filename=True)
-    for idi, i in enumerate(a):
-        print(idi)
 
 
 
